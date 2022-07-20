@@ -1,0 +1,16 @@
+.app {
+  min-height: 100vh;
+  max-width: 920px;
+  width: 100%;
+  padding-top: 20px;
+  margin: 0 auto;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: 10px;
+  text-align: center;
+}
